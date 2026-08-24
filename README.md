@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm a Senior Full-stack JavaScript Engineer focused on building production-ready web applications, AI-powered SaaS products, and intelligent automation systems.
+I'm a Senior Full-stack JavaScript Engineer focused on building production-ready web applications, **AI-powered SaaS products**, and **intelligent automation systems.**
 
 - 💻 Senior Full-stack Engineer specializing in JavaScript/TypeScript ecosystems
 - 🤖 Building AI Agents, LLM-powered applications, and intelligent automation
